@@ -23,4 +23,8 @@
     <ProjectReference Include="..\Greeter\Greeter.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="TestReports\" />
+  </ItemGroup>
+
 </Project>
